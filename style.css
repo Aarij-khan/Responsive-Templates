@@ -1,0 +1,160 @@
+body{
+    background-image:linear-gradient(rgba(236, 16, 236, 0.767),rgba(2, 1, 1, 0.938));
+    background-repeat: no-repeat;
+    height: 150vh;
+}
+div>h1{
+    text-align: center;
+    margin-top: 70px;
+    font-size: 30pt;
+    color: white;
+}
+div>h6{
+    text-align: center;
+    font-family: sans-serif;    
+    color: white;
+    font-size: 13pt;
+}
+.container{
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: center;
+}
+.one{
+    height: 450px;
+    width: 300px;
+    background-image: linear-gradient(rgba(255, 166, 0, 0.863),white);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+}
+#a{
+   position: relative;
+   bottom: 35px;
+   left: 32px;
+   font-size: 22pt;
+}
+#b{
+    position: relative;
+    bottom: 25px;
+    left: 35px;
+    font-size: 37pt;
+}
+#c{
+    font-size: 22pt;
+}
+#butt1{
+    position: relative;
+    top: 55px;
+    left: 4px;
+    width: 120px;
+    height: 40px;
+    border: 2px solid black;
+    border-radius: 14px;
+    padding: 3px;
+    background-color: white;
+    font-weight: 900;
+    font-size: 12pt;
+    letter-spacing: 1px;
+
+}
+#butt1:hover{
+    background-color: yellow;
+
+}
+#butt2:hover{
+    background-color: yellow;
+
+}
+#butt3:hover{
+    background-color: yellow;
+
+}
+.two{
+    height: 450px;
+    width: 300px;
+    background-image: linear-gradient(rgba(13, 252, 13, 0.836),rgba(255, 255, 0, 0.822));
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 30px;
+    border-radius: 15px;
+}
+#apple{
+    position: relative;
+    bottom: 35px;
+    left: 10px;
+    font-size: 22pt;
+
+}
+#ball{
+    position: relative;
+    bottom: 25px;
+    left: 28px;
+    font-size: 37pt;
+}
+#cat{
+    font-size: 22pt;
+}
+#butt2{
+    position: relative;
+    top: 55px;
+    left: 4px;
+    width: 120px;
+    height: 40px;
+    border: 2px solid black;
+    border-radius: 14px;
+    padding: 3px;
+    background-color: white;
+    font-weight: 900;
+    font-size: 12pt;
+    letter-spacing: 1px;
+}
+.div1{
+    height: 450px;
+    width: 300px;
+    background-image: linear-gradient(rgb(16, 94, 211),rgb(255, 255, 45));
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 30px;
+    border-radius: 15px;
+}
+#butt3{
+    position: relative;
+    top: 55px;
+    left: 4px;
+    width: 120px;
+    height: 40px;
+    border: 2px solid black;
+    border-radius: 14px;
+    padding: 3px;
+    background-color: white;
+    font-weight: 900;
+    font-size: 12pt;
+    letter-spacing: 1px;
+}
+#div4{
+    font-size: 22pt;
+}
+#div2{
+    position: relative;
+   bottom: 35px;
+   left: 10px;
+   font-size: 22pt;
+
+}
+#div3{
+    position: relative;
+    bottom: 25px;
+    left: 28px;
+    font-size: 37pt;
+
+}
+
+
+
+    
+
+
